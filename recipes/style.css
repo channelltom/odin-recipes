@@ -1,0 +1,35 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: #ffefd5;
+  color: #3d0c02;
+}
+
+.main-title {
+  padding: 20px;
+  font-size: 38px;
+  text-align: center;
+}
+
+.main-img {
+  display: block;
+  height: 400px;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ingredient-title,
+.steps-title {
+  font-size: 28px;
+  text-align: center;
+}
+
+.ingredients-list,
+.steps-list {
+  text-align: center;
+  list-style-position: inside;
+}
+
+li {
+  padding: 5px;
+}
